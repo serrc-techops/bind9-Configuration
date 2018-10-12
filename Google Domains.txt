@@ -1,3 +1,12 @@
+bing.com    CNAME    strict.bing.com.
+*.bing.com    CNAME    strict.bing.com.
+
+www.youtube.com    CNAME    restrictmoderate.youtube.com.
+m.youtube.com    CNAME    restrictmoderate.youtube.com.
+youtubei.googleapis.com    CNAME    restrictmoderate.youtube.com.
+youtube.googleapis.com    CNAME    restrictmoderate.youtube.com.
+www.youtube-nocookie.com    CNAME    restrictmoderate.youtube.com.
+
 google.com	CNAME	forcesafesearch.google.com.
 www.google.com	CNAME	forcesafesearch.google.com.
 google.ad	CNAME	forcesafesearch.google.com.
